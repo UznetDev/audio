@@ -1,0 +1,7 @@
+
+
+git remote set-url origin https://UznetDev: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
+https://UznetDev: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@github.com/UznetDev/audio.git
+
+
+git remote set-url origin https://UznetDev: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@github.com/UznetDev/audio.git

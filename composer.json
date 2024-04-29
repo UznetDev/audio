@@ -1,0 +1,12 @@
+{
+    "require": {
+        "james-heinrich/getid3": "^1.9",
+        "danog/madelineproto": "^8"
+    },
+    "minimum-stability": "beta",
+    "config": {
+        "allow-plugins": {
+            "symfony/thanks": true
+        }
+    }
+}

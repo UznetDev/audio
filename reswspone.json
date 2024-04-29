@@ -1,0 +1,284 @@
+{
+    [_] => updates
+    [updates] => Array(
+        [_] => updates
+        [updates] => Array
+            (
+                [0] => Array
+                    (
+                        [_] => updateMessageID
+                        [id] => 96645
+                        [random_id] => -8128254549644393737
+                    )
+    
+                [1] => Array
+                    (
+                        [_] => updateReadChannelInbox
+                        [channel_id] => -1001815304083
+                        [max_id] => 96645
+                        [still_unread_count] => 0
+                        [pts] => 97269
+                    )
+    
+                [2] => Array
+                    (
+                        [_] => updateNewChannelMessage
+                        [message] => Array
+                            (
+                                [_] => message
+                                [out] => 1
+                                [mentioned] => 
+                                [media_unread] => 
+                                [silent] => 
+                                [post] => 1
+                                [from_scheduled] => 
+                                [legacy] => 
+                                [edit_hide] => 
+                                [pinned] => 
+                                [noforwards] => 
+                                [invert_media] => 
+                                [offline] => 
+                                [id] => 96645
+                                [peer_id] => -1001815304083
+                                [date] => 1713338845
+                                [message] => @GeneralMusicBot
+                                [media] => Array
+                                    (
+                                        [_] => messageMediaDocument
+                                        [nopremium] => 
+                                        [spoiler] => 
+                                        [video] => 
+                                        [round] => 
+                                        [voice] => 
+                                        [document] => Array
+                                            (
+                                                [_] => document
+                                                [id] => 5260677854848370449
+                                                [access_hash] => 3724782222987777825
+                                                [file_reference] => danog\MadelineProto\TL\Types\Bytes Object
+                                                    (
+                                                        [bytes:danog\MadelineProto\TL\Types\Bytes:private] => l3W�y�fy�.����.�]y���
+                                                    )
+    
+                                                [date] => 1713338845
+                                                [mime_type] => audio/mpeg
+                                                [size] => 4486080
+                                                [dc_id] => 2
+                                                [attributes] => Array
+                                                    (
+                                                        [0] => Array
+                                                            (
+                                                                [_] => documentAttributeAudio
+                                                                [voice] => 
+                                                                [duration] => 181
+                                                                [title] => Xadyatillo - Alvido ( Yor yor aytar bag'ritoshlar ð ) | Ko'zlarim…
+                                                                [performer] => Xadyatillo Official - @theFmMusic
+                                                            )
+    
+                                                    )
+    
+                                            )
+    
+                                    )
+    
+                                [entities] => Array
+                                    (
+                                        [0] => Array
+                                            (
+                                                [_] => messageEntityMention
+                                                [offset] => 0
+                                                [length] => 16
+                                            )
+    
+                                        [1] => Array
+                                            (
+                                                [_] => messageEntityItalic
+                                                [offset] => 8
+                                                [length] => 5
+                                            )
+    
+                                    )
+    
+                                [views] => 1
+                                [forwards] => 0
+                            )
+    
+                        [pts] => 97269
+                        [pts_count] => 1
+                    )
+    
+            )
+    
+        [users] => Array
+            (
+                [0] => Array
+                    (
+                        [_] => user
+                        [self] => 
+                        [contact] => 
+                        [mutual_contact] => 
+                        [deleted] => 
+                        [bot] => 1
+                        [bot_chat_history] => 
+                        [bot_nochats] => 
+                        [verified] => 
+                        [restricted] => 
+                        [min] => 
+                        [bot_inline_geo] => 
+                        [support] => 
+                        [scam] => 
+                        [apply_min_photo] => 1
+                        [fake] => 
+                        [bot_attach_menu] => 
+                        [premium] => 
+                        [attach_menu_enabled] => 
+                        [bot_can_edit] => 
+                        [close_friend] => 
+                        [stories_hidden] => 
+                        [stories_unavailable] => 1
+                        [contact_require_premium] => 
+                        [bot_business] => 
+                        [id] => 136817688
+                        [first_name] => Channel
+                        [username] => Channel_Bot
+                        [photo] => Array
+                            (
+                                [_] => userProfilePhoto
+                                [has_video] => 
+                                [personal] => 
+                                [photo_id] => 587627495930570665
+                                [stripped_thumb] => danog\MadelineProto\TL\Types\Bytes Object
+                                    (
+                                        [bytes:danog\MadelineProto\TL\Types\Bytes:private] => ���_�g4QEp3�
+                                    )
+    
+                                [dc_id] => 1
+                            )
+    
+                        [bot_info_version] => 4
+                    )
+    
+            )
+    
+        [chats] => Array
+            (
+                [0] => Array
+                    (
+                        [_] => channel
+                        [creator] => 
+                        [left] => 
+                        [broadcast] => 1
+                        [verified] => 
+                        [megagroup] => 
+                        [restricted] => 
+                        [signatures] => 
+                        [min] => 
+                        [scam] => 
+                        [has_link] => 
+                        [has_geo] => 
+                        [slowmode_enabled] => 
+                        [call_active] => 
+                        [call_not_empty] => 
+                        [fake] => 
+                        [gigagroup] => 
+                        [noforwards] => 
+                        [join_to_send] => 
+                        [join_request] => 
+                        [forum] => 
+                        [stories_hidden] => 
+                        [stories_hidden_min] => 1
+                        [stories_unavailable] => 1
+                        [id] => -1001815304083
+                        [title] => YouTube Music DB
+                        [username] => YouTube_Downs
+                        [photo] => Array
+                            (
+                                [_] => chatPhoto
+                                [has_video] => 
+                                [photo_id] => 5273843751132972515
+                                [stripped_thumb] => danog\MadelineProto\TL\Types\Bytes Object
+                                    (
+                                        [bytes:danog\MadelineProto\TL\Types\Bytes:private] => ��O��[o�3ץQHl
+                                    )
+    
+                                [dc_id] => 2
+                            )
+    
+                        [date] => 1674920696
+                        [admin_rights] => Array
+                            (
+                                [_] => chatAdminRights
+                                [change_info] => 1
+                                [post_messages] => 1
+                                [edit_messages] => 1
+                                [delete_messages] => 1
+                                [ban_users] => 1
+                                [invite_users] => 1
+                                [pin_messages] => 
+                                [add_admins] => 
+                                [anonymous] => 
+                                [manage_call] => 1
+                                [other] => 1
+                                [manage_topics] => 1
+                                [post_stories] => 1
+                                [edit_stories] => 1
+                                [delete_stories] => 1
+                            )
+    
+                    )
+    
+            )
+    
+        [date] => 1713338844
+        [seq] => 0
+        [request] => Array
+            (
+                [_] => messages.sendMedia
+                [body] => Array
+                    (
+                        [peer] => @YouTube_Downs
+                        [media] => Array
+                            (
+                                [_] => inputMediaUploadedDocument
+                                [file] => Array
+                                    (
+                                        [_] => inputFile
+                                        [id] => ,5��q�e9
+                                        [parts] => 9
+                                        [name] => Xadyatillo - Alvido 28 Yor yor aytar bag27ritoshlar F09F9294 29 7C Ko27zlarim yo27lingda Filmi @theFmMusic.mp3
+                                        [mime_type] => audio/mpeg
+                                        [md5_checksum] => 
+                                    )
+    
+                                [   attributes] => Array
+                                    (
+                                        [0] => Array
+                                            (
+                                                [_] => documentAttributeAudio
+                                                [voice] => 
+                                                [title] => Xadyatillo - Alvido ( Yor yor aytar bag'ritoshlar 💔 ) | Ko'zlarim yo'lingda Filmi
+                                                [performer] => Xadyatillo Official
+                                                [0] => t
+                                            )
+    
+                                    )
+    
+                            )
+    
+                        [message] => @GeneralMusicBot
+                        [entities] => Array
+                            (
+                                [0] => Array
+                                    (
+                                        [_] => messageEntityItalic
+                                        [offset] => 8
+                                        [length] => 5
+                                    )
+    
+                            )
+    
+                    )
+    
+            )
+    
+    )
